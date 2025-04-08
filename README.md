@@ -68,15 +68,4 @@ Oracle SQL Developer is a free IDE that makes it easy to develop and operate Ora
 ● Understanding the concept of Data Wrangling and Online Shopping database.  
 ● Perform Data Wrangling activities on the data.
 
-𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:  
-https://github.com/Ajay026/Projects/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution  
-
-𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
-https://github.com/Ajay026/Projects/tree/main/Codes/momo1606-sql_basic_latest-2ed0938ee08d  
-
-
-![image](https://user-images.githubusercontent.com/70576003/194710172-df92a709-7c7e-40dd-85a8-c0882d9972e7.png)
-
-![image](https://user-images.githubusercontent.com/70576003/194710238-1f486b0d-ddd7-4f61-92be-6bfe5b4e1f05.png)  
-
 
