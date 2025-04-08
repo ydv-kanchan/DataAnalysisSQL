@@ -413,4 +413,5 @@ update CUSTOMERS
 set full_name = null
 where CUSTOMER_ID >=385;
 
+-- commit 
 COMMIT;

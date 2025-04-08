@@ -1,4 +1,6 @@
 truncate table order_items;
+-- truncate
+
 insert into order_items (ORDER_ID,LINE_ITEM_ID,PRODUCT_ID,UNIT_PRICE,QUANTITY,SHIPMENT_ID) values (1,1,33,37,4,null);
 insert into order_items (ORDER_ID,LINE_ITEM_ID,PRODUCT_ID,UNIT_PRICE,QUANTITY,SHIPMENT_ID) values (1,2,11,30.69,2,null);
 insert into order_items (ORDER_ID,LINE_ITEM_ID,PRODUCT_ID,UNIT_PRICE,QUANTITY,SHIPMENT_ID) values (2,1,41,8.66,3,1);

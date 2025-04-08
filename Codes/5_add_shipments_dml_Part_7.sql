@@ -1,4 +1,6 @@
-truncate table shipments;
+truncate table shipments; 
+-- truncate
+
 insert into shipments (SHIPMENT_ID,STORE_ID,CUSTOMER_ID,DELIVERY_ADDRESS,SHIPMENT_STATUS) values (1,1,45,'Jobstown, NJ 08041 USA','DELIVERED');
 insert into shipments (SHIPMENT_ID,STORE_ID,CUSTOMER_ID,DELIVERY_ADDRESS,SHIPMENT_STATUS) values (2,1,18,'Marlborough, MA 01752 USA','DELIVERED');
 insert into shipments (SHIPMENT_ID,STORE_ID,CUSTOMER_ID,DELIVERY_ADDRESS,SHIPMENT_STATUS) values (3,1,45,'Jobstown, NJ 08041 USA','DELIVERED');

@@ -20,10 +20,10 @@ truncate table stores;
     Sector 2
     Bucharest , 014254
     RO',44.43225,26.10626, EMPTY_BLOB(),null);
-  insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (8,'Berlin',null,'Behrenstraße 42 (Humboldt Carré)
+  insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (8,'Berlin',null,'Behrenstraï¿½e 42 (Humboldt Carrï¿½)
     10117 Berlin',52.5161,13.3873, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (9,'Utrecht',null,'Hertogswetering 163-167, 3543 AS Utrecht, Netherlands',52.103263,5.061644, EMPTY_BLOB(),null);
-  insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (10,'Madrid',null,'C/ José Echegaray 6B
+  insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (10,'Madrid',null,'C/ Josï¿½ Echegaray 6B
     Las Rozas
     28230 Madrid',40.4929,-3.8737, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (11,'Johannesburg',null,'Woodmead North Office Park
@@ -50,14 +50,15 @@ truncate table stores;
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (17,'Perth',null,'Level 9
     225 St Georges Terrace
     Perth WA 6000',-31.953715,115.851645, EMPTY_BLOB(),null);
-  insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (18,'São Paulo',null,'Rua Dr. Jose Aureo Bustamante,
+  insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (18,'Sï¿½o Paulo',null,'Rua Dr. Jose Aureo Bustamante,
     455 - Vila Cordeiro,
-    CEP 04710-090 São Paulo',-23.5475,-46.63611, EMPTY_BLOB(),null);
+    CEP 04710-090 Sï¿½o Paulo',-23.5475,-46.63611, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (19,'Buenos Aires',null,'Juana Manso 1069, Buenos Aires, Argentina',-34.61016,-58.362867, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (20,'Mexico City',null,'Montes Urales # 470 P3
     Col. Lomas de Chapultepec
-    Delegación Miguel Hidalgo - C.P. 11000',19.428489,-99.205745, EMPTY_BLOB(),null);
+    Delegaciï¿½n Miguel Hidalgo - C.P. 11000',19.428489,-99.205745, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (21,'Bejing',null,'China, Beijing Shi, Haidian Qu, Dongbeiwang W Rd, 8, 100085',40.0572,116.290061, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (22,'Tokyo',null,'2 Chome-5-? Kitaaoyama, Minato City, Tokyo 107-0061, Japan',35.671534,139.718584, EMPTY_BLOB(),null);
   insert into stores (STORE_ID,STORE_NAME,WEB_ADDRESS,PHYSICAL_ADDRESS,LATITUDE,LONGITUDE,LOGO,LOGO_MIME_TYPE) values (23,'Tel Aviv',null,'B, Aharon Bart St 18, Petah Tikva, 4951400, Israel',32.100664,34.862138, EMPTY_BLOB(),null);
+-- commit
 COMMIT;

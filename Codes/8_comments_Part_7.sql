@@ -1,4 +1,5 @@
 PROMPT creating comments
+-- comments
 
 comment on table customers
   is 'Details of the people placing orders';

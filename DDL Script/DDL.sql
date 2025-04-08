@@ -1,8 +1,4 @@
-/* 
-REM ********************************************************************
-REM Create the REGIONS table to hold region information for locations
-REM HR.LOCATIONS table has a foreign key to this table.
-*/
+
        
 CREATE TABLE regions
    ( region_id NUMBER 

@@ -1,4 +1,6 @@
 truncate table inventory;
+-- truncate
+
 insert into inventory (product_id,store_id,product_inventory) values (1,10,10);
 insert into inventory (product_id,store_id,product_inventory) values (33,1,1);
 insert into inventory (product_id,store_id,product_inventory) values (33,5,4);
